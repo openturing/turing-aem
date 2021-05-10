@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/openturing/turing-aem/actions/workflows/maven.yml/badge.svg)](https://github.com/openturing/turing-aem/actions/workflows/maven.yml)
 [![CodeQL](https://github.com/openturing/turing-aem/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/openturing/turing-aem/actions/workflows/codeql-analysis.yml)
 
 # Sample AEM project template
